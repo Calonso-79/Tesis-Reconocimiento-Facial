@@ -1,9 +1,9 @@
-# Tesis Reconocimiento facial usando Facenet, One Shot Learning, SVM y Transfer Learning
+# Reconocimiento facial usando Facenet, One Shot Learning, SVM y Transfer Learning
 
 Aplicacion web desarrollada para mostrar los requerimientos de trabajo de grado para Ingeniero de sistemas titulado "Sistema de Reconocimiento Facial usando Redes Neuronales Convolucionales". 
 
 Se puede evidenciar un resumen de los lenguajes de programación, herramientas y librerías de todo el sistema, incluyendo Modelos de Deep Learning, API REST y Web App. Primero existe la capa de los modelos de Deep Learning los cuales son desarrollados en Python utilizando las principales librerías de ciencias de Datos e Inteligencia Artificial: Tensorflow, Keras, Scikit-learn y Numpy. Además, se le añade la librería de visión Computarizada OpenCV. Seguidamente sigue el servidor backend que funciona como API REST desarrollado en el framework de Python Flask. Por último, se encuentra la capa de Frontend e interfaz gráfica, desarrollada utilizando herramientas de diseño web como lo son HTML, CSS y el lenguaje de programación Javascript, y librerías como Bootstrap y JQuery.  Finalmente, el usuario final podrá acceder a la aplicación desde cualquier navegador web. Ver La Siguiente Imagen
-
+[![Run on Repl.it](https://repl.it/badge/github/datacampero/Tesis-Reconocimiento-Facial)](https://repl.it/github/datacampero/Tesis-Reconocimiento-Facial)
 ![Repo List](Screens/arquitectura.png)
 
 ## Fases
